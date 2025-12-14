@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
 	'https://sites.google.com/mljy.org/115/fortune-poems/01',
 	'https://sites.google.com/mljy.org/115/fortune-poems/02',
 	'https://sites.google.com/mljy.org/115/fortune-poems/03',
