@@ -9,6 +9,14 @@
 
 const urls = [
 	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://sites.google.com/mljy.org/115/fortune-poems/01',
+	'https://sites.google.com/mljy.org/115/fortune-poems/02',
+	'https://sites.google.com/mljy.org/115/fortune-poems/03',
+	'https://sites.google.com/mljy.org/115/fortune-poems/04',
+	'https://sites.google.com/mljy.org/115/fortune-poems/05',
+	'https://sites.google.com/mljy.org/115/fortune-poems/06',
+	'https://sites.google.com/mljy.org/115/fortune-poems/07',
+	'https://sites.google.com/mljy.org/115/fortune-poems/08',
+	'https://sites.google.com/mljy.org/115/fortune-poems/09',
+	'https://sites.google.com/mljy.org/115/fortune-poems/10',
 ];
